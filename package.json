@@ -1,0 +1,13 @@
+{
+  "name": "primedox-ai",
+  "version": "1.0.0",
+  "description": "PrimeDox AI — Document Intelligence & Agent Swarm",
+  "main": "orchestrator/swarm-orchestrator.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": ["ai", "legal", "documents", "cannabis", "constitution"],
+  "author": "Derek Francisco",
+  "license": "MIT"
+}
